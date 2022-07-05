@@ -1,6 +1,5 @@
-### Hi 👋
-### I’m Changxin Tian. 
-### Click [here](https://changxintian.github.io/) to learn more about me.
+### Hi, I’m Changxin Tian 👋
+### Welcome to click [here](https://changxintian.github.io/) to learn more about me.
 
 <!--
 **ChangxinTian/ChangxinTian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
